@@ -1,0 +1,33 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# RMarkdown intermediates
+*_cache/
+*_files/
+*.utf8.md
+*.knit.md
+
+# Rendered reports
+*.html
+*.pdf
+*.docx
+
+# Local / restricted data
+data/raw/
+data/intermediate/
+*.rds
+*.Rds
+*.RData
+*.csv.gz
+
+# Model outputs and scratch
+output/tmp/
+output/scratch/
+*.log
+
+# OS clutter
+.DS_Store
+Thumbs.db
